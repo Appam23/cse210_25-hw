@@ -1,5 +1,5 @@
 # cse210-student-template
-Appam's starter code for CSE 210_25.
+Appam's Leisan starter code for CSE 210_25.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
